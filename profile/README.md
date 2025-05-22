@@ -3,7 +3,8 @@
 Latar belakang ini proyek "Website Jobseeker Bagi Para Pencari Kerja Pabrik" bertujuan untuk menyediakan platform yang efektif dan efisien bagi para pencari kerja pabrik dalam mencari peluang pekerjaan informasi tentang lowongan pekerjaan di sektor industri.
 
 # Contributing
-![Team Kosan KPK](https://raw.githubusercontent.com/github.com/RekanPabrik/profile/foto-team.jpg)
+![Team Kosan KPK](https://raw.githubusercontent.com/RekanPabrik/profile/main/foto-team.jpg)
+
 
 |**Nama**| **NIM** |  
 |:-------|:-----------:|
